@@ -19,7 +19,7 @@ A command-line chatbot application that uses OpenAI's API to provide interactive
 
 1. Clone the repository:
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/gopaldashusa/aichat
 cd chatapp
 ```
 
